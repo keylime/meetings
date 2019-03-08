@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Project Board
+## Project Board
 
 https://github.com/orgs/keylime/projects/1
 
