@@ -2,7 +2,7 @@
 
 ## When and where?
 
-The keylime project meets every Wednesday @ 15:30 UTC to 16:00.
+The keylime project meets every Wednesday @ 15:00 UTC to 15:30.
 
 Anyone is welcome to join the meeting.
 
