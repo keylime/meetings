@@ -2,9 +2,9 @@
 
 ## When and where?
 
-The keylime project meets every Wednesday @ 15:30 UTC to 16:00.
+The Keylime community meets every other Wednesday (2nd and 4th of each month), from 15:30 to 16:00 [UTC](https://www.timeanddate.com/worldclock/timezone/utc).
 
-Anyone is welcome to join the meeting.
+Anyone is welcome to join the meeting. We discuss recent work, notable news and anything else that comes up.
 
 The meeting is hosted on the CNCF's Slack Instance, in the [#keylime channel](https://cloud-native.slack.com/archives/C01ARE2QUTZ)
 
