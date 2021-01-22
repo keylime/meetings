@@ -13,12 +13,7 @@ https://github.com/orgs/keylime/projects/1
 
 ## Attendees
 
-- [ ] @lukehinds (Luke Hinds)
-- [ ] @frozencemetery (Robbie Harwood)
-- [ ] @jetwhiz (Charlie)
-- [ ] @leonjia0112 (Leo Jia)
-- [ ] @nabilschear (Nabil Schear)
-- [ ] @mbestavros (Mark Bestavros)
+- [ ] @github_name (Real Name)
 
 ## Topics
 
@@ -28,7 +23,7 @@ https://github.com/orgs/keylime/projects/1
 
 ## Actions
 
-* @lukehinds to try and replicate painful bug, and update @jetwhiz
+* @github_name to try and replicate painful bug, and update @jetwhiz
 
 ## Meeting notes
 
