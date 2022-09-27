@@ -8,6 +8,8 @@ Anyone is welcome to join the meeting. We discuss recent work, notable news and 
 
 The meeting is hosted on the CNCF's Slack Instance, in the [#keylime channel](https://cloud-native.slack.com/archives/C01ARE2QUTZ)
 
+Every two months on the 2nd Wednesday of the month the meeting is in video form. More information, including the date of the next video meeting as well as any agenda items, can be found in the respective [issues](https://github.com/keylime/meetings/labels/video-meeting).
+
 ## Agendas and Minutes
 
 All meeting agendas are created as [github issues](https://github.com/keylime/meetings/issues), using an [github issue template](https://github.com/keylime/meetings/blob/master/.github/ISSUE_TEMPLATE/meeting-template.md).
