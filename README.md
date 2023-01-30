@@ -2,13 +2,13 @@
 
 ## When and where?
 
-The Keylime community meets every other Wednesday (2nd and 4th of each month), from 15:30 to 16:00 [UTC](https://www.timeanddate.com/worldclock/timezone/utc).
+The Keylime community meets every 4th Wednesday of the month, from 15:30 to 16:30 [GMT](https://www.timeanddate.com/time/zones/gmt). 
 
 Anyone is welcome to join the meeting. We discuss recent work, notable news and anything else that comes up.
 
-The meeting is hosted on the CNCF's Slack Instance, in the [#keylime channel](https://cloud-native.slack.com/archives/C01ARE2QUTZ)
+Meetings are generally held in video form. More information, including the date of the next video meeting as well as any agenda items, can be found in the respective [issues](https://github.com/keylime/meetings/labels/video-meeting).
 
-Every two months on the 2nd Wednesday of the month the meeting is in video form. More information, including the date of the next video meeting as well as any agenda items, can be found in the respective [issues](https://github.com/keylime/meetings/labels/video-meeting).
+The meeting is also normally announced on the CNCF's Slack Instance, in the [#keylime channel](https://cloud-native.slack.com/archives/C01ARE2QUTZ)
 
 ## Agendas and Minutes
 
