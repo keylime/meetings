@@ -2,7 +2,7 @@
 
 ## When and where?
 
-The Keylime community meets every 4th Wednesday of the month, from 15:30 to 16:30 [GMT](https://www.timeanddate.com/time/zones/gmt). 
+The Keylime community meets every 4th Wednesday of the month, from 16:00 to 17:00 UK time ([GMT](https://www.timeanddate.com/time/zones/gmt)/[BST](https://www.timeanddate.com/time/zones/bst)). 
 
 Anyone is welcome to join the meeting. We discuss recent work, notable news and anything else that comes up.
 
